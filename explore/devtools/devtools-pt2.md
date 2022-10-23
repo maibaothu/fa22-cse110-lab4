@@ -1,0 +1,2 @@
+Question 1: At line 5 and 6, the function getElementById().value return a string, therefore, the result of addtion between num1 and num2 would be a string instead of integer
+Question 2: At line 11, replace by let result = parseInt(num1) + parseInt(num2) to return an integer
